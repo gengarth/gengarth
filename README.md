@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me gengarth0@gmail.com or cbdenney@usf.edu
 
-Mostly just using this as a repository for my writeups that I really need to catch up on.
-Hopefully want to get everything in a markdown format eventually.
 
 
 <!---
