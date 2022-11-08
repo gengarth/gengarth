@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning various blue team, red team operations, and scripting.
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me gengarth0@gmail.com or cbdenney@usf.edu
+- 📫 How to reach me cbdenney55@gmail.com or cbdenney@usf.edu
 
 
 
